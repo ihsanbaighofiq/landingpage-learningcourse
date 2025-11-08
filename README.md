@@ -7,7 +7,7 @@ Website ini dibangun menggunakan **HTML, CSS, dan JavaScript**, dengan struktur 
 
 ## 🖼️ Preview
 
-![TJKT Preview](img/preview.jpg)  
+![TJKT Preview](img/preview.png)  
 > Tampilan halaman utama dengan navbar, hero section, about section, course, contact form, dan footer interaktif.
 
 ---
